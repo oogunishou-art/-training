@@ -1,0 +1,25 @@
+{
+  "name": "トレlog",
+  "short_name": "トレlog",
+  "description": "トレーニング記録アプリ。2人ぶんの記録を管理し、推定1RM・疲労管理・グラフで継続をサポートします。",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#151b2e",
+  "theme_color": "#151b2e",
+  "start_url": "./",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
